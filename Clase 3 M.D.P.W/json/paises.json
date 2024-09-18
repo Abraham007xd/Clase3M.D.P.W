@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "pais":"Colombia",
+        "codigo":"COL",
+        "indicador":57,
+        "ciudades": ["Cali","Barranquilla","Medellin"]
+    },
+    {
+        "id":2,
+        "pais":"Venezuela",
+        "codigo":"VEN",
+        "indicador":58,
+        "ciudades":["Caracas","Maracaibo","Margaritas"]
+        
+    },
+    {
+        "id":3,
+        "pais":"Peru",
+        "codigo":"Pe",
+        "indicador":59,
+        "ciudades":["Lima","Cusco","Arequipa"],
+        "presidente":{
+            "nombre":"Gustavo",
+            "apellido":"Petro",
+            "edad":55,
+            "profesion":["filosofo","economista","politologo"]
+        }
+        
+    }
+]
